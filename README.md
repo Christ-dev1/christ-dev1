@@ -60,7 +60,7 @@ J’aime résoudre des problèmes, apprendre de nouvelles technologies et transf
 
 ---
 
-### 🚀 Quelques projets
+###  Quelques projets
 
 #### 🎓 FutureAcademy
 Plateforme de formation en ligne permettant aux apprenants de développer leurs compétences grâce à des cours et des parcours pédagogiques.
