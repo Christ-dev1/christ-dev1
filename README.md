@@ -70,20 +70,19 @@ Plateforme de formation en ligne permettant aux apprenants de développer leurs 
 #### 🌐 Portfolio développeur
 Un espace pour présenter mes compétences, mes réalisations et mon parcours professionnel.
 
-**Code :** [Voir mes dépôts GitHub](https://github.com/TON-PSEUDO)
+**site :** [Voir le site ](https://portfolio-kbace.vercel.app/)
 
 #### ⚙️ Projets backend & API
 Développement d'applications avec Laravel, gestion des bases de données, authentification et conception d'API.
 
-**Code :** [Explorer mes projets](https://github.com/TON-PSEUDO?tab=repositories)
 
 ---
 
 ### 📊 Mon activité GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON-PSEUDO&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christ-dev1&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON-PSEUDO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christ-dev1&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
