@@ -67,6 +67,9 @@ Plateforme de formation en ligne permettant aux apprenants de développer leurs 
 
 **Technologies :** Laravel, Vue.js et technologies web associées.
 
+**site :** [Voir le site ](https://future-akademy.com/)
+
+
 #### 🌐 Portfolio développeur
 Un espace pour présenter mes compétences, mes réalisations et mon parcours professionnel.
 
@@ -74,7 +77,6 @@ Un espace pour présenter mes compétences, mes réalisations et mon parcours pr
 
 #### ⚙️ Projets backend & API
 Développement d'applications avec Laravel, gestion des bases de données, authentification et conception d'API.
-
 
 ---
 
@@ -88,7 +90,7 @@ Développement d'applications avec Laravel, gestion des bases de données, authe
 
 ### 📫 Me contacter
 
-- 💼 **LinkedIn :** [Mon profil LinkedIn](https://www.linkedin.com/)
+- 💼 **LinkedIn :** [Mon profil LinkedIn](https://www.linkedin.com/flagship-web/in/blin-kadjo/)
 - 💻 **GitHub :** [Mes projets](https://github.com/christ-dev1)
 
 ---
